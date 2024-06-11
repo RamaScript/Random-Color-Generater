@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: burlywood;
+}
+
+h1{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: burlywood;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+button{
+    margin: 30px auto;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: red;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Canvas{
+    height: 200px;
+    width: 60%;
+    font-size: 25px;
+    margin: 20px auto;
+    padding: 30px;
+    border: 2px solid black;
+    border-radius: 15px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
